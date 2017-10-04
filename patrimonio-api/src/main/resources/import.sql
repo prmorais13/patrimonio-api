@@ -1,0 +1,2 @@
+INSERT INTO item (etiqueta, descricao, data_aquisicao) VALUES ('AU0001', 'Renault Sandero', sysdate());
+INSERT INTO item (etiqueta, descricao, data_aquisicao) VALUES ('NT0001', 'Notbook i7', sysdate());
